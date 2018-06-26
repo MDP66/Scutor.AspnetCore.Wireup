@@ -2,6 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>Masoud DaneshPour</Authors>
+    <Company>Tabro.ir</Company>
+    <Description>Scan and wire up assemblies based on directory and search patterns</Description>
+    <RepositoryUrl>https://github.com/MDP66/Scutor.AspnetCore.Wireup</RepositoryUrl>
+    <PackageTags>Scutor,Wireup,Assembly scanner</PackageTags>
+    <PackageReleaseNotes>1.0.0 :
+ - First release</PackageReleaseNotes>
+    <PackageLicenseUrl>https://github.com/MDP66/Scutor.AspnetCore.Wireup/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>Masoud DaneshPour ( masoud.net@hotmail.com )</Copyright>
+    <PackageProjectUrl>https://github.com/MDP66/Scutor.AspnetCore.Wireup</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Scrutor" Version="2.2.2" />
+  </ItemGroup>
 
 </Project>
