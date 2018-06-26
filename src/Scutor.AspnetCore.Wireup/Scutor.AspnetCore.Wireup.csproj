@@ -13,6 +13,7 @@
     <Copyright>Masoud DaneshPour ( masoud.net@hotmail.com )</Copyright>
     <PackageProjectUrl>https://github.com/MDP66/Scutor.AspnetCore.Wireup</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageIconUrl>https://raw.githubusercontent.com/MDP66/Scutor.AspnetCore.Wireup/master/src/Scutor.AspnetCore.Wireup.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
