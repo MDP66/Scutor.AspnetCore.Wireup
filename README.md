@@ -1,6 +1,8 @@
 # Scutor.AspnetCore.Wireup
 
 [![GitHub license](https://img.shields.io/github/license/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/blob/master/LICENSE)[![GitHub issues](https://img.shields.io/github/issues/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/issues)[![GitHub stars](https://img.shields.io/github/stars/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/stargazers)[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.png)](https://www.nuget.org/packages/Scutor.AspnetCore.Wireup/)
+[![Build status](https://ci.appveyor.com/api/projects/status/jfwak85h40v4dv6u?svg=true)](https://ci.appveyor.com/project/MDP66/scutor-aspnetcore-wireup)
+[![Build status](https://ci.appveyor.com/api/projects/status/jfwak85h40v4dv6u/branch/master?svg=true)](https://ci.appveyor.com/project/MDP66/scutor-aspnetcore-wireup/branch/master)
 
 
 Current version is : 
