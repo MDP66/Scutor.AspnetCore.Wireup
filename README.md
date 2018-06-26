@@ -1,6 +1,6 @@
 # Scutor.AspnetCore.Wireup
 
-[![GitHub license](https://img.shields.io/github/license/MDP66/Scutor.AspnetCore.Wireup.svg)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/blob/master/LICENSE)[![GitHub issues](https://img.shields.io/github/issues/MDP66/Scutor.AspnetCore.Wireup.svg)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/issues)[![GitHub stars](https://img.shields.io/github/stars/MDP66/Scutor.AspnetCore.Wireup.svg)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/stargazers)[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.svg)](https://www.nuget.org/packages/Scutor.AspnetCore.Wireup/)
+[![GitHub license](https://img.shields.io/github/license/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/blob/master/LICENSE)[![GitHub issues](https://img.shields.io/github/issues/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/issues)[![GitHub stars](https://img.shields.io/github/stars/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/stargazers)[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.png)](https://www.nuget.org/packages/Scutor.AspnetCore.Wireup/)
 
 
 Current version is : 
