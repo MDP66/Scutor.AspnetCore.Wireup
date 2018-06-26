@@ -2,7 +2,8 @@
 
 [![GitHub license](https://img.shields.io/github/license/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/blob/master/LICENSE)[![GitHub issues](https://img.shields.io/github/issues/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/issues)[![GitHub stars](https://img.shields.io/github/stars/MDP66/Scutor.AspnetCore.Wireup.png)](https://github.com/MDP66/Scutor.AspnetCore.Wireup/stargazers)[![NuGet](https://img.shields.io/nuget/v/Nuget.Core.png)](https://www.nuget.org/packages/Scutor.AspnetCore.Wireup/)
 [![Build status](https://ci.appveyor.com/api/projects/status/jfwak85h40v4dv6u?svg=true)](https://ci.appveyor.com/project/MDP66/scutor-aspnetcore-wireup)
-[![NuGet Status](http://nugetstatus.com/<package>.png)](http://nugetstatus.com/packages/Scutor.AspnetCore.Wireup)
+[![NuGet Status](http://nugetstatus.com/Scutor.AspnetCore.Wireup.png)](http://nugetstatus.com/packages/Scutor.AspnetCore.Wireup)
+
 
 Current version is : 
 Scutor wire up services and classes for asp.net core
